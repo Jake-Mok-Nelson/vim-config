@@ -15,6 +15,7 @@ Plug 'nvim-tree/nvim-web-devicons'
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.6' }
 Plug 'tpope/vim-fugitive'
 Plug 'junegunn/limelight.vim'
+Plug 'github/copilot.vim'
 
 
 call plug#end()
